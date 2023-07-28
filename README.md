@@ -1,70 +1,16 @@
-# Getting Started with Create React App
+Welcome to the amazing world of GPT-3 and OpenAI! If you're passionate about technology and want to explore the possibilities of artificial intelligence, you've come to the right place. On this website, you'll find an incredible project that combines React and CSS to create a platform where you can interact with GPT-3, one of the most advanced language models developed by OpenAI.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+With GPT-3, the possibilities are beyond imagination. This powerful language model can assist you with various tasks, such as chatbots for interactive conversations, a vast knowledge base to access information, and educational resources to enhance your learning experience. The potential applications of GPT-3 are vast, and you can explore them all through this website.
 
-## Available Scripts
+To get started, simply sign up using your email address and gain access to this revolutionary technology. Over 1,600 people have already requested access in the last 24 hours, highlighting the excitement surrounding this project.
 
-In the project directory, you can run:
+As you navigate through the website, you'll discover the incredible potential of GPT-3 and OpenAI. The blog section keeps you updated on the latest developments and showcases how GPT-3 and OpenAI are shaping the future.
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![image](https://github.com/sajalbatra/gpt3/assets/125984550/9a23a838-30e1-4797-971a-d471f997aa66)
+![image](https://github.com/sajalbatra/gpt3/assets/125984550/623c9b05-565a-4031-81ad-0c029c15a110)
+![image](https://github.com/sajalbatra/gpt3/assets/125984550/df35bf12-5756-4e07-8d5e-e7eb49d2fb27)
+![image](https://github.com/sajalbatra/gpt3/assets/125984550/215a81a1-1163-42b9-ab70-738e6d79ea0c)
+![image](https://github.com/sajalbatra/gpt3/assets/125984550/0e8cbcbc-15a7-4195-8c04-f04bb6df1155)
+![image](https://github.com/sajalbatra/gpt3/assets/125984550/057fb142-ddb2-4b15-8aee-eb30b647b5f8)
+![image](https://github.com/sajalbatra/gpt3/assets/125984550/ac385e20-2b87-461e-9820-8e63b2d0d4d3)
+![image](https://github.com/sajalbatra/gpt3/assets/125984550/873aa2ef-5137-48a5-9cfc-4883ad247b15)
