@@ -6,11 +6,19 @@ To get started, simply sign up using your email address and gain access to this 
 
 As you navigate through the website, you'll discover the incredible potential of GPT-3 and OpenAI. The blog section keeps you updated on the latest developments and showcases how GPT-3 and OpenAI are shaping the future.
 
-![image](/src/assets/ai.png)
-![image](https://github.com/sajalbatra/gpt3/assets/125984550/623c9b05-565a-4031-81ad-0c029c15a110)
-![image](https://github.com/sajalbatra/gpt3/assets/125984550/df35bf12-5756-4e07-8d5e-e7eb49d2fb27)
-![image](https://github.com/sajalbatra/gpt3/assets/125984550/215a81a1-1163-42b9-ab70-738e6d79ea0c)
-![image](https://github.com/sajalbatra/gpt3/assets/125984550/0e8cbcbc-15a7-4195-8c04-f04bb6df1155)
-![image](https://github.com/sajalbatra/gpt3/assets/125984550/057fb142-ddb2-4b15-8aee-eb30b647b5f8)
-![image](https://github.com/sajalbatra/gpt3/assets/125984550/ac385e20-2b87-461e-9820-8e63b2d0d4d3)
-![image](https://github.com/sajalbatra/gpt3/assets/125984550/873aa2ef-5137-48a5-9cfc-4883ad247b15)
+![image](/src/projectimg/img1.png)
+
+![image](/src/projectimg/img2.png)
+
+![image](/src/projectimg/img3.png)
+
+![image](/src/projectimg/img4.png)
+
+![image](/src/projectimg/img5.png)
+
+![image](/src/projectimg/img6.png)
+
+![image](/src/projectimg/img7.png)
+
+![image](/src/projectimg/img8.png)
+
